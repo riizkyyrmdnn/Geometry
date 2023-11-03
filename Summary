@@ -1,0 +1,66 @@
+Below is a summary of the material in this repository.
+
+1. Cube
+The formula for the volume of a cube is V = s³, example:
+V - is the volume of the cube
+s - is the side of the cube
+
+2. Beam
+The formula for the volume of a block is V = l x w x h, example:
+V is the volume of the block
+l - is the length of the beam
+w - is the width of the beam
+h - is the height of the block
+
+3. Ball
+The formula for the volume of a sphere is V = 4/3 πr³, example:
+V - is the volume of the ball
+π - is the number pi (≈ 3.14)
+r - is the radius of the ball
+
+4. Tube
+The formula for the volume of a cylinder is V = πr² x t, example:
+V - is the volume of the cylinder
+π - is the number pi (≈ 3.14)
+r - is the radius of the tube
+t - is the height of the tube
+
+5. Cone
+The formula for the volume of a cone is V = 1/3 πr² x t, example:
+V - is the volume of the cone
+π - is the number pi (≈ 3.14)
+r - is the radius of the cone
+
+6. Pyramid
+The formula for the volume of a pyramid is... V = 1/3 x base area x height, example:
+V - is the volume of the pyramid
+The area of ​​the base is the area of ​​the n-side that is the base of the pyramid
+height is the height of the pyramid
+
+7. Prism
+The formula for the volume of a prism is... V = base area x height, example:
+V - is the volume of the prism
+The base area is the area of ​​the n-facet that is the base of the prism
+height is the height of the prism
+
+8. circle
+The area of ​​a circle is the area bounded by the circle. The formula for the area of ​​a circle is as follows:
+L = πr²
+example:
+L - is the area of ​​the circle
+π - is the number pi (≈ 3.14)
+r - is the radius of the circle
+
+The circumference of a circle is the length of the curved line that borders the circle. The formula for the circumference of a circle is as follows:
+K = 2πr
+example:
+K - is the circumference of the circle
+π - is the number pi (≈ 3.14)
+r - is the radius of the circle
+
+9. Circle
+The formula for the area of ​​a circle is based on the concept that the area of ​​a circle can be calculated by multiplying the area of ​​a small circle with radius 1 by the number of small circles present. The area of ​​a small circle is πr², so the area of ​​the circle is as follows:
+L = π * r²
+2. Circle Perimeter Formula
+The formula for the circumference of a circle is based on the concept that the circumference of a circle can be calculated by adding up the lengths of the curved lines that limit a small circle of radius 1. The circumference of a small circle is 2πr, so the circumference of the circle is as follows:
+K = 2 * π * r
